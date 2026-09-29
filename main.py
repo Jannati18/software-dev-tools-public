@@ -1,5 +1,5 @@
 def ping():
-    print("Jannati Tuba18")
+    print("JannatiT18")
 
 if __name__ == "__main__":
     ping()
